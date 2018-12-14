@@ -2,7 +2,7 @@
 This code is for image classification on the famous Google Landmark Recognition challenge hosted on Kaggle.
 
 ## Get started
-1. Download the data files 'train.csv' and 'test.csv' from https://www.kaggle.com/google/google-landmarks-dataset
+1. Download the data files 'train.csv' and 'test.csv' from [here](https://www.kaggle.com/google/google-landmarks-dataset)
 2. Set up a GCP instance for optimal training time.
 3. Move on to the codes.
 
