@@ -6,7 +6,7 @@ This code is for image classification on the famous Google Landmark Recognition 
 2. Set up a GCP instance for optimal training time.
 3. Move on to the codes.
 
-Have a look at the blog by our team to follow our journey. 
+Have a look at the [blog](https://towardsdatascience.com/google-landmark-recognition-using-transfer-learning-dde35cc760e1) by our team to follow our journey. 
 
 ## Codes
 The script '**Landmark_Recognition**' consists of the code to
